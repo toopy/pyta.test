@@ -1,0 +1,4 @@
+*.log
+*.pyc
+funktest.selenium.*
+__pycache__/
